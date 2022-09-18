@@ -47,7 +47,7 @@ for (const propiedad in usuario) {
 let frutas = ['fresa', 'melon', 'mango', 'kiwi'];
 
 for (const i  of frutas) {
-    console.log(i);
+    console.log(typeof i);
 }
 
 
